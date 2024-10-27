@@ -1,9 +1,5 @@
 # Multi-Threaded Web Server Project
 
-| **Name**  | **Student ID** | **Email**                  |
-|:----------|:---------------|:---------------------------|
-| Yu Shaoyu | 24118601G      | shaoyu.yu@connect.polyu.hk |
-
 
 ## Project Introduction
 
